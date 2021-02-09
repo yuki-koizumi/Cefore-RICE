@@ -2,6 +2,9 @@
 ## About Cefore-RICE
 Cefore is a network forwarder that conforms to the Content-Centric Networking (CCN) protocol, and it is originally developed by National Institute of Information and Communications Technology (NICT) (https://cefore.net). Cefore-RICE is an extension of Cefore, which enables push-like communications on top of CCN according to the RICE protocol.
 
+## Usage
+Cefore-RICE is based on Cefore 0.8.2.2. You can refer to the instruction manuals of Cefore or Cefore 0.8.2.2 (https://cefore.net/instruction).
+
 ## Contributors
 - Yuki Koizumi (@yuki-koizumi) (Graduate School of Information Science and Technology, Osaka University)
 - Koh Yoshioka (@KoYosok) (School of Engineering Science, Osaka University)
